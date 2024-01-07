@@ -1,0 +1,2 @@
+ini isian1
+ini isian2
